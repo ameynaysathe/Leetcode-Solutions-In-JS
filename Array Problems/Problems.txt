@@ -1,0 +1,72 @@
+1. Two Sum (Optimal)
+Find indices of two numbers that add to target.
+
+2. Maximum Subarray Sum (Kadane’s)
+
+3. Product of Array Except Self
+
+4. Longest Consecutive Sequence
+
+5. Trapping Rain Water
+Two pointers.
+
+6. Merge Intervals
+Sort + merge overlap.
+
+7. Rotate Matrix 90°
+Transpose + reverse.
+8. Search in Rotated Sorted Array
+Binary search variation.
+9. Find Duplicate Number
+Floyd’s cycle detection.
+10. Sliding Window Maximum
+Deque technique.
+11. Subarray Sum Equals K
+Prefix sum + hashmap.
+12. Maximum Product Subarray
+Track min & max.
+13. First Missing Positive
+Index marking.
+14. Dutch National Flag (0,1,2 sort)
+3 pointers.
+15. Next Permutation
+Find pivot, swap, reverse.
+16. Count Inversions
+Merge sort logic.
+17. Longest Increasing Subsequence
+Binary search DP.
+18. Kth Largest Element
+Quickselect.
+19. Top K Frequent Elements
+Heap or bucket sort.
+20. Gas Station Circuit
+21. Jump Game
+22. Jump Game II
+23. Minimum Size Subarray Sum
+24. Continuous Subarray Sum
+25. Find Peak Element
+26. Container With Most Water
+27. Majority Element (Moore Voting)
+28. Find All Duplicates
+29. 3 Sum
+30. 4 Sum
+31. Maximum Points on Line
+32. Spiral Matrix
+33. Set Matrix Zeroes
+34. Subsets
+35. Permutations
+36. Combination Sum
+37. Partition Equal Subset Sum
+38. Word Search (Backtracking)
+39. Longest Substring Without Repeat
+40. Median of Two Sorted Arrays
+41. Smallest Range Covering K Lists
+42. Sliding Window Median
+43. Count of Smaller Numbers After Self
+44. Minimum Window Substring
+45. Largest Rectangle in Histogram
+46. Maximal Rectangle
+47. Meeting Rooms II
+48. Employee Free Time
+49. Skyline Problem
+50. Burst Balloons
